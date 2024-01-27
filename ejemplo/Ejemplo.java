@@ -17,5 +17,14 @@ public class Ejemplo {
         System.out.println("Division: " + division);
         System.out.println("Residuo: " + residuo);
 
+        // Operadores relacionales
+        System.out.println("\nOperadores Relacionales:");
+        System.out.println("a > b: " + (a > b));
+        System.out.println("a < b: " + (a < b));
+        System.out.println("a >= b: " + (a >= b));
+        System.out.println("a <= b: " + (a <= b));
+        System.out.println("a == b: " + (a == b));
+        System.out.println("a != b: " + (a != b));
+
     }
 }
