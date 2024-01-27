@@ -26,5 +26,12 @@ public class Ejemplo {
         System.out.println("a == b: " + (a == b));
         System.out.println("a != b: " + (a != b));
 
+        // Operadores logicos
+        boolean x = true, y = false;
+        System.out.println("\nOperadores Logicos:");
+        System.out.println("x && y: " + (x && y));
+        System.out.println("x || y: " + (x || y));
+        System.out.println("!x: " + (!x));
+
     }
 }
